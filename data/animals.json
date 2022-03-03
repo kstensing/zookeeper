@@ -64,10 +64,7 @@
       "diet": "herbivore",
       "diet": "omnivore",
       "personalityTraits": ["hungry", "goofy"]
-      "personalityTraits": [
-        "hungry",
-        "goofy"
-      ]
+
     },
     {
       "id": "6",
@@ -76,9 +73,7 @@
       "diet": "herbivore",
       "diet": "omnivore",
       "personalityTraits": ["zany"]
-      "personalityTraits": [
-        "zany"
-      ]
+
     },
     {
       "id": "7",
@@ -87,11 +82,7 @@
       "diet": "herbivore",
       "diet": "omnivore",
       "personalityTraits": ["hungry", "zany", "goofy"]
-      "personalityTraits": [
-        "hungry",
-        "zany",
-        "goofy"
-      ]
+
     },
     {
       "id": "8",
@@ -107,9 +98,6 @@
       "diet": "carnivore",
       "personalityTraits": ["hungry"]
 
-      "personalityTraits": [
-        "hungry"
-      ]
     },
     {
 
