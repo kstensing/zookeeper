@@ -1,9 +1,14 @@
 {
+<<<<<<< HEAD
   "name": "zookeeper",
+=======
+  "name": "main",
+>>>>>>> feature/frontend
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
@@ -20,5 +25,15 @@
   "homepage": "https://github.com/kstensing/zookeeper#readme",
   "dependencies": {
     "express": "^4.17.3"
+=======
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+>>>>>>> feature/frontend
   }
 }
