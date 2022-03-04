@@ -4,11 +4,7 @@
       "id": "0",
       "name": "Spindle",
       "species": "bear",
-<<<<<<< HEAD
-      "diet": "carnivore",
-=======
       "diet": "omnivore",
->>>>>>> feature/frontend
       "personalityTraits": [
         "hungry",
         "zany",
@@ -19,11 +15,7 @@
       "id": "1",
       "name": "Terry",
       "species": "gorilla",
-<<<<<<< HEAD
-      "diet": "omnivore",
-=======
       "diet": "folivore",
->>>>>>> feature/frontend
       "personalityTraits": [
         "anxious",
         "goofy"
@@ -33,11 +25,7 @@
       "id": "2",
       "name": "Erica",
       "species": "gorilla",
-<<<<<<< HEAD
-      "diet": "omnivore",
-=======
       "diet": "folivore",
->>>>>>> feature/frontend
       "personalityTraits": [
         "quirky",
         "rash"
@@ -47,11 +35,7 @@
       "id": "3",
       "name": "Noel",
       "species": "bear",
-<<<<<<< HEAD
-      "diet": "carnivore",
-=======
       "diet": "omnivore",
->>>>>>> feature/frontend
       "personalityTraits": [
         "impish",
         "sassy",
@@ -62,11 +46,7 @@
       "id": "4",
       "name": "Coco",
       "species": "penguin",
-<<<<<<< HEAD
-      "diet": "herbivore",
-=======
       "diet": "piscivore",
->>>>>>> feature/frontend
       "personalityTraits": [
         "loving",
         "goofy"
@@ -76,11 +56,7 @@
       "id": "5",
       "name": "Marcy",
       "species": "ostrich",
-<<<<<<< HEAD
-      "diet": "herbivore",
-=======
       "diet": "omnivore",
->>>>>>> feature/frontend
       "personalityTraits": [
         "hungry",
         "goofy"
@@ -90,11 +66,7 @@
       "id": "6",
       "name": "Bodhi",
       "species": "Doggo",
-<<<<<<< HEAD
-      "diet": "herbivore",
-=======
       "diet": "omnivore",
->>>>>>> feature/frontend
       "personalityTraits": [
         "zany"
       ]
@@ -103,11 +75,7 @@
       "id": "7",
       "name": "Cassie",
       "species": "Doggo",
-<<<<<<< HEAD
-      "diet": "herbivore",
-=======
       "diet": "omnivore",
->>>>>>> feature/frontend
       "personalityTraits": [
         "hungry",
         "zany",
@@ -133,24 +101,6 @@
       ]
     },
     {
-<<<<<<< HEAD
-      "name": "Sufjan",
-      "species": "Koala Bear",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "loving"
-      ],
-      "id": "10"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "11"
-=======
       "name": "Rho",
       "species": "Dog",
       "diet": "carnivore",
@@ -160,7 +110,6 @@
         "goofy"
       ],
       "id": "10"
->>>>>>> feature/frontend
     }
   ]
 }
